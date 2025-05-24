@@ -5,18 +5,8 @@ import App from './App';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>
+  </React.StrictMode>,
 );
 
 
-// File: src/App.jsx
-import React from 'react';
-import TrainMap from './components/TrainMap';
 
-export default function App() {
-  return (
-    <div style={{ height: '100vh', width: '100%' }}>
-      <TrainMap />
-    </div>
-  );
-}
