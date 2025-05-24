@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import stations from '../../public/jadwal_ka_1737.json';
+import stations from '../data/jadwal_ka_1737.json';
 import { Loader } from '@googlemaps/js-api-loader';
 import { getTrainPosition } from '../utils/time';
 
