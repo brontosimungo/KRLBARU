@@ -1,0 +1,135 @@
+[
+  {
+    "station": "Rangkasbitung (RK)",
+    "lat": -6.364309,
+    "lng": 106.251239,
+    "arrival": null,
+    "departure": "16:30:00"
+  },
+  {
+    "station": "Citeras (CTR)",
+    "lat": -6.355482,
+    "lng": 106.293311,
+    "arrival": "16:41:00",
+    "departure": "16:42:00"
+  },
+  {
+    "station": "Maja (MJ)",
+    "lat": -6.347624,
+    "lng": 106.330826,
+    "arrival": "16:50:00",
+    "departure": "16:51:00"
+  },
+  {
+    "station": "Cikoya (CKY)",
+    "lat": -6.333748,
+    "lng": 106.386306,
+    "arrival": "16:54:00",
+    "departure": "16:55:00"
+  },
+  {
+    "station": "Cilejit (CLJT)",
+    "lat": -6.326773,
+    "lng": 106.425537,
+    "arrival": "16:56:30",
+    "departure": "16:57:30"
+  },
+  {
+    "station": "Tigaraksa (TGS)",
+    "lat": -6.312012,
+    "lng": 106.473255,
+    "arrival": "16:57:30",
+    "departure": "16:58:00"
+  },
+  {
+    "station": "Tenjo (TJO)",
+    "lat": -6.312830,
+    "lng": 106.495206,
+    "arrival": "17:01:00",
+    "departure": "17:02:00"
+  },
+  {
+    "station": "Daru (DAR)",
+    "lat": -6.310149,
+    "lng": 106.513899,
+    "arrival": "17:06:00",
+    "departure": "17:07:00"
+  },
+  {
+    "station": "Parungpanjang (PRP)",
+    "lat": -6.306933,
+    "lng": 106.554928,
+    "arrival": "17:18:00",
+    "departure": "17:20:00"
+  },
+  {
+    "station": "Cicayur (CCR)",
+    "lat": -6.309097,
+    "lng": 106.611267,
+    "arrival": "17:24:00",
+    "departure": "17:25:00"
+  },
+  {
+    "station": "Cisauk (CSK)",
+    "lat": -6.305071,
+    "lng": 106.652049,
+    "arrival": "17:29:00",
+    "departure": "17:30:00"
+  },
+  {
+    "station": "Serpong (SRP)",
+    "lat": -6.295678,
+    "lng": 106.664375,
+    "arrival": "17:33:00",
+    "departure": "17:34:00"
+  },
+  {
+    "station": "Rawabuntu (RAB)",
+    "lat": -6.288786,
+    "lng": 106.681474,
+    "arrival": "17:38:00",
+    "departure": "17:39:00"
+  },
+  {
+    "station": "Sudimara (SDM)",
+    "lat": -6.281818,
+    "lng": 106.696420,
+    "arrival": "17:42:00",
+    "departure": "17:43:00"
+  },
+  {
+    "station": "Jurangmangu (JMG)",
+    "lat": -6.259144,
+    "lng": 106.716681,
+    "arrival": "17:45:00",
+    "departure": "17:46:00"
+  },
+  {
+    "station": "Pondokranji (PDJ)",
+    "lat": -6.239722,
+    "lng": 106.737838,
+    "arrival": "17:48:00",
+    "departure": "17:49:00"
+  },
+  {
+    "station": "Kebayoran (KBY)",
+    "lat": -6.231354,
+    "lng": 106.790473,
+    "arrival": "17:56:00",
+    "departure": "17:57:00"
+  },
+  {
+    "station": "Palmerah (PLM)",
+    "lat": -6.206158,
+    "lng": 106.797900,
+    "arrival": "18:02:00",
+    "departure": "18:03:00"
+  },
+  {
+    "station": "Tanahabang (THB)",
+    "lat": -6.186486,
+    "lng": 106.811921,
+    "arrival": "18:08:00",
+    "departure": null
+  }
+]
